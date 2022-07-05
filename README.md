@@ -2,7 +2,7 @@
 
 # Week 3 Assignment: Life Tracker
 
-Submitted by: **NAME**
+Submitted by: Daniel Jonas
 
 Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 
